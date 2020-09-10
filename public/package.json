@@ -1,0 +1,23 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "this i",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanufemi/google_weather_app.git"
+  },
+  "keywords": [
+    "weather",
+    "app"
+  ],
+  "author": "shanu femi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shanufemi/google_weather_app/issues"
+  },
+  "homepage": "https://github.com/shanufemi/google_weather_app#readme"
+}

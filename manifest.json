@@ -1,0 +1,20 @@
+{
+  "short_name": "Weather App",
+  "name": "SMART IT",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "bg1.jpg",
+      "type": "image/jpg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./bg2.jpg ",
+      "type": "image/jpg",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "#bfc1c8",
+  "display": "standalone",
+  "theme_color": "#009ad8"
+}
